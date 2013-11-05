@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CakePHP v2.1.0 commit "
+"9b395eb23b7389ee5798a7260d80c7557d02b19f\n"
+"POT-Creation-Date: 2013-11-05 15:32+0100\n"
+"PO-Revision-Date: 2013-11-05 19:47:56\n"
+"Last-Translator: Pierre Martin <pierre@occi-tech.com>\n"
+"Language-Team: Cakephp-fr.org <contact@cakephp-fr.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"Plural-Forms: nplurals=2; plural=(n==1? 0 : 1);\n"
+
+#: Cache/Cache.php:542
+#, fuzzy
+msgid "Invalid cache group %s"
+msgstr "%s invalide"
+
+#: Console/Command/AclShell.php:143
+#, fuzzy
+msgid "There was a problem creating a new %s '%s'."
+msgstr ""
+"Une erreur est survenue lors de la suppression de %1$s ayant pour id : %2$d"
+
+#: Console/Command/AclShell.php:159
+#, fuzzy
+msgid "There was an error deleting the %s. Check that the node exists."
+msgstr ""
+"Une erreur est survenue lors de la suppression de %1$s ayant pour id : %2$d"
+
+#: Console/Command/AclShell.php:202
+#, fuzzy
+msgid "Supplied Node '%s' not found"
+msgstr "Le fichier demandé est introuvable"
+
+#: Console/Command/AclShell.php:319;321;530 Console/Command/ApiShell.php:94
+#: Console/Command/Task/DbConfigTask.php:256
+#, fuzzy
+msgid "%s not found"
+msgstr "Introuvable"
+
+#: Console/Command/ApiShell.php:102
+#, fuzzy
+msgid "%s::%s() could not be found"
+msgstr "Introuvable"
+
+#: Console/Command/ApiShell.php:192
+#, fuzzy
+msgid "Command %s not found"
+msgstr "Introuvable"
+
+#: Console/Command/ApiShell.php:209
+#, fuzzy
+msgid "%s could not be found"
+msgstr "Introuvable"
+
+#: Console/Command/ConsoleShell.php:99
+#, fuzzy
+msgid ""
+"There was an error loading the routes config. Please check that the file "
+"exists and contains no errors."
+msgstr ""
+"Une erreur est survenue lors de la suppression de %1$s ayant pour id : %2$d"
+
+#: Console/Command/ConsoleShell.php:212
+#, fuzzy
+msgid "Invalid command"
+msgstr "%s invalide"
+
+#: Console/Command/ConsoleShell.php:376
+#, fuzzy
+msgid "No result set found"
+msgstr "Le fichier demandé est introuvable"
+
+#: Console/Command/ConsoleShell.php:442
+#, fuzzy
+msgid ""
+"There was an error loading the routes config. Please check that the file "
+"exists and is free of parse errors."
+msgstr ""
+"Une erreur est survenue lors de la suppression de %1$s ayant pour id : %2$d"
+
+#: Console/Command/SchemaShell.php:336
+#, fuzzy
+msgid "Are you sure you want to drop the table(s)?"
+msgstr "Etes-vous sûr de vouloir supprimer"
+
+#: Console/Command/SchemaShell.php:344
+#, fuzzy
+msgid "Are you sure you want to create the table(s)?"
+msgstr "Êtes vous sûr de vouloir supprimer # %s ?"
+
+#: Console/Command/SchemaShell.php:348
+#, fuzzy
+msgid "End create."
+msgstr "mis à jour"
+
+#: Console/Command/SchemaShell.php:395
+#, fuzzy
+msgid "Are you sure you want to alter the tables?"
+msgstr "Êtes vous sûr de vouloir supprimer # %s ?"
+
+#: Console/Command/SchemaShell.php:401
+#, fuzzy
+msgid "End update."
+msgstr "mis à jour"
+
+#: Console/Command/SchemaShell.php:422
+#, fuzzy
+msgid "%s is up to date."
+msgstr "mis à jour"
+
+#: Console/Command/SchemaShell.php:443
+#, fuzzy
+msgid "%s updated."
+msgstr "mis à jour"
+
+#: Console/Command/Task/ControllerTask.php:83;122
+#, fuzzy
+msgid "Adding %s methods"
+msgstr "Le %s %s"
+
+#: Console/Command/Task/ExtractTask.php:235
+#, fuzzy
+msgid "The output directory %s was not found or writable."
+msgstr "Le fichier demandé est introuvable"
+
+#: Console/Command/Task/ModelTask.php:265
+#, fuzzy
+msgid "Validation: %s"
+msgstr "%s invalide"
+
+#: Console/Command/Task/ModelTask.php:268
+#, fuzzy
+msgid "Associations:"
+msgstr "Actions"
+
+#: Console/Command/Task/ModelTask.php:530
+#, fuzzy
+msgid "None found."
+msgstr "Introuvable"
+
+#: Console/Command/Task/ModelTask.php:905
+#, fuzzy
+msgid "Do you want to use this table?"
+msgstr "Etes-vous sûr de vouloir supprimer"
+
+#: Console/Command/Task/TestTask.php:324
+#, fuzzy
+msgid "Invalid object type."
+msgstr "%s invalide"
+
+#: Console/Command/Task/TestTask.php:343
+#, fuzzy
+msgid "Invalid type name"
+msgstr "%s invalide"
+
+#: Console/Command/Task/ViewTask.php:257
+#, fuzzy
+msgid "Controller not found"
+msgstr "Introuvable"
+
+#: Console/Command/TestShell.php:372
+#, fuzzy
+msgid "Test case %s cannot be run via this shell"
+msgstr "Le fichier demandé est introuvable"
+
+#: Console/Command/TestShell.php:385;402
+#, fuzzy
+msgid "Test case %s not found"
+msgstr "Le fichier demandé est introuvable"
+
+#: Console/Command/UpgradeShell.php:817
+#, fuzzy
+msgid "Run all upgrade commands."
+msgstr "%s invalide"
+
+#: Console/Command/UpgradeShell.php:163;590;617;709
+#, fuzzy
+msgid "Moving %s to %s"
+msgstr "Le %s %s"
+
+#: Console/Shell.php:698
+#, fuzzy
+msgid "Do you want to overwrite?"
+msgstr "Etes-vous sûr de vouloir supprimer"
+
+#: Controller/Component/AuthComponent.php:431
+msgid "You are not authorized to access that location."
+msgstr "Vous n'êtes pas autorisé à accéder à cet endroit."
+
+#: Controller/Scaffold.php:130
+msgid "Scaffold :: "
+msgstr "Scaffold :: "
+
+#: Controller/Scaffold.php:224
+msgid "updated"
+msgstr "mis à jour"
+
+#: Controller/Scaffold.php:227
+msgid "saved"
+msgstr "sauvegardé"
+
+#: Controller/Scaffold.php:247
+msgid "The %1$s has been %2$s"
+msgstr "Le %1$s a été %2$s"
+
+#: Controller/Scaffold.php:257
+msgid "Please correct errors below."
+msgstr "Merci de corriger les erreurs ci-dessous."
+
+#: Controller/Scaffold.php:308
+msgid "The %1$s with id: %2$s has been deleted."
+msgstr "Le %1$s ayant pour id : %2$d a été supprimé."
+
+#: Controller/Scaffold.php:311
+msgid "There was an error deleting the %1$s with id: %2$s"
+msgstr ""
+"Une erreur est survenue lors de la suppression de %1$s ayant pour id : %2$d"
+
+#: Controller/Scaffold.php:169;236;305
+msgid "Invalid %s"
+msgstr "%s invalide"
+
+#: Error/ExceptionRenderer.php:212
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: Error/ExceptionRenderer.php:234 View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "Une erreur interne s'est produite."
+
+#: Log/CakeLog.php:192
+#, fuzzy
+msgid "Invalid key name"
+msgstr "%s invalide"
+
+#: Log/CakeLog.php:316;334;353
+#, fuzzy
+msgid "Stream %s not found"
+msgstr "Introuvable"
+
+#: Model/Datasource/DboSource.php:1189
+#, fuzzy
+msgid "Error in Model %s"
+msgstr "Erreur dans le champ %s"
+
+#: Model/Datasource/DboSource.php:2965
+#, fuzzy
+msgid "Invalid schema object"
+msgstr "%s invalide"
+
+#: Model/Permission.php:180
+#, fuzzy
+msgid "%s - Invalid node"
+msgstr "%s invalide"
+
+#: Model/Permission.php:198
+#, fuzzy
+msgid "Invalid permission key \"%s\""
+msgstr "%s invalide"
+
+#: Model/Validator/CakeValidationSet.php:288
+msgid "This field cannot be left blank"
+msgstr "Ce champ ne peut être vide"
+
+#: Network/CakeResponse.php:624
+#, fuzzy
+msgid "Unknown status code"
+msgstr "%s invalide"
+
+#: Network/CakeResponse.php:668
+#, fuzzy
+msgid "Invalid status code"
+msgstr "%s invalide"
+
+#: Network/CakeResponse.php:1268
+#, fuzzy
+msgid "The requested file %s was not found or not readable"
+msgstr "Le fichier demandé est introuvable"
+
+#: Network/CakeResponse.php:1270
+msgid "The requested file was not found"
+msgstr "Le fichier demandé est introuvable"
+
+#: Network/Email/CakeEmail.php:912
+#, fuzzy
+msgid "Class \"%s\" not found."
+msgstr "Introuvable"
+
+#: Network/Email/CakeEmail.php:1023
+#, fuzzy
+msgid "File not found: \"%s\""
+msgstr "Introuvable"
+
+#: Network/Email/CakeEmail.php:1184
+#, fuzzy
+msgid "%s not found."
+msgstr "Introuvable"
+
+#: Network/Email/CakeEmail.php:558;572;612;626
+#, fuzzy
+msgid "Invalid email: \"%s\""
+msgstr "%s invalide"
+
+#: Network/Http/HttpSocket.php:246
+#, fuzzy
+msgid "Invalid resource."
+msgstr "%s invalide"
+
+#: Network/Http/HttpSocket.php:406
+#, fuzzy
+msgid "Class %s not found."
+msgstr "Introuvable"
+
+#: Network/Http/HttpSocketResponse.php:153
+#, fuzzy
+msgid "Invalid response."
+msgstr "%s invalide"
+
+#: Network/Http/HttpSocketResponse.php:157
+#, fuzzy
+msgid "Invalid HTTP response."
+msgstr "%s invalide"
+
+#: Utility/CakeNumber.php:94
+msgid "%d KB"
+msgstr "%d Ko"
+
+#: Utility/CakeNumber.php:96
+msgid "%.2f MB"
+msgstr "%.2f Mo"
+
+#: Utility/CakeNumber.php:98
+msgid "%.2f GB"
+msgstr "%.2f Go"
+
+#: Utility/CakeNumber.php:100
+msgid "%.2f TB"
+msgstr "%.2f To"
+
+#: Utility/CakeNumber.php:119
+msgid "%d Byte"
+msgid_plural "%d Bytes"
+msgstr[0] "%d Octet"
+msgstr[1] "%d Octets"
+
+#: Utility/CakeTime.php:154
+msgid "day"
+msgstr "jour"
+
+#: Utility/CakeTime.php:188
+msgid "mon"
+msgstr "mois"
+
+#: Utility/CakeTime.php:400
+msgid "Today, %s"
+msgstr "Aujourd'hui, %s"
+
+#: Utility/CakeTime.php:403
+msgid "Yesterday, %s"
+msgstr "Hier, %s"
+
+#: Utility/CakeTime.php:406
+msgid "Tomorrow, %s"
+msgstr "Demain, %s"
+
+#: Utility/CakeTime.php:411
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: Utility/CakeTime.php:412
+msgid "Monday"
+msgstr "Lundi"
+
+#: Utility/CakeTime.php:413
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: Utility/CakeTime.php:414
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: Utility/CakeTime.php:415
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: Utility/CakeTime.php:416
+msgid "Friday"
+msgstr "Vendredi"
+
+#: Utility/CakeTime.php:417
+msgid "Saturday"
+msgstr "Samedi"
+
+#: Utility/CakeTime.php:423
+msgid "On %s %s"
+msgstr "Le %s %s"
+
+#: Utility/CakeTime.php:744
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: Utility/CakeTime.php:745
+msgid "on %s"
+msgstr "le %s"
+
+#: Utility/CakeTime.php:797
+msgid "just now"
+msgstr "à l'instant"
+
+#: Utility/CakeTime.php:886
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d année"
+msgstr[1] "%d années"
+
+#: Utility/CakeTime.php:889
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d mois"
+msgstr[1] "%d mois"
+
+#: Utility/CakeTime.php:892
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d semaine"
+msgstr[1] "%d semaines"
+
+#: Utility/CakeTime.php:895
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d jour"
+msgstr[1] "%d jours"
+
+#: Utility/CakeTime.php:898
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d heure"
+msgstr[1] "%d heures"
+
+#: Utility/CakeTime.php:901
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minute"
+msgstr[1] "%d minutes"
+
+#: Utility/CakeTime.php:904
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d seconde"
+msgstr[1] "%d secondes"
+
+#: Utility/CakeTime.php:954;976
+msgid "days"
+msgstr "jours"
+
+#: Utility/Folder.php:699
+#, fuzzy
+msgid "%s not created"
+msgstr "Introuvable"
+
+#: Utility/Folder.php:517;695
+#, fuzzy
+msgid "%s created"
+msgstr "mis à jour"
+
+#: Utility/Xml.php:117;196
+#, fuzzy
+msgid "Invalid input."
+msgstr "%s invalide"
+
+#: Utility/Xml.php:277;290
+#, fuzzy
+msgid "Invalid array"
+msgstr "%s invalide"
+
+#: View/Errors/error400.ctp:23
+#, fuzzy
+msgid "The requested address %s was not found on this server."
+msgstr "Le fichier demandé est introuvable"
+
+#: View/Errors/fatal_error.ctp:21
+#, fuzzy
+msgid "Fatal Error"
+msgstr "Scaffold :: "
+
+#: View/Errors/missing_behavior.ctp:25 View/Errors/missing_component.ctp:25
+#: View/Errors/missing_controller.ctp:25 View/Errors/missing_helper.ctp:25
+#, fuzzy
+msgid "%s could not be found."
+msgstr "Introuvable"
+
+#: View/Errors/missing_layout.ctp:23
+#, fuzzy
+msgid "The layout file %s can not be found or does not exist."
+msgstr "Le fichier demandé est introuvable"
+
+#: View/Errors/missing_view.ctp:23
+#, fuzzy
+msgid "The view for %1$s%2$s was not found."
+msgstr "Le fichier demandé est introuvable"
+
+#: View/Errors/scaffold_error.ctp:20
+#, fuzzy
+msgid "Scaffold Error"
+msgstr "Scaffold :: "
+
+#: View/Helper/FormHelper.php:693
+msgid "Error in field %s"
+msgstr "Erreur dans le champ %s"
+
+#: View/Helper/FormHelper.php:882 View/Scaffolds/form.ctp:49
+#: View/Scaffolds/index.ctp:80;95 View/Scaffolds/view.ctp:66;81;191
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#: View/Helper/FormHelper.php:888 View/Scaffolds/view.ctp:54;112
+msgid "Edit %s"
+msgstr "Editer %s"
+
+#: View/Helper/FormHelper.php:1828 View/Scaffolds/form.ctp:24
+msgid "Submit"
+msgstr "Envoyer"
+
+#: View/Helper/FormHelper.php:2766
+msgid "January"
+msgstr "Janvier"
+
+#: View/Helper/FormHelper.php:2767
+msgid "February"
+msgstr "Février"
+
+#: View/Helper/FormHelper.php:2768
+msgid "March"
+msgstr "Mars"
+
+#: View/Helper/FormHelper.php:2769
+msgid "April"
+msgstr "Avril"
+
+#: View/Helper/FormHelper.php:2770
+msgid "May"
+msgstr "Mai"
+
+#: View/Helper/FormHelper.php:2771
+msgid "June"
+msgstr "Juin"
+
+#: View/Helper/FormHelper.php:2772
+msgid "July"
+msgstr "Juillet"
+
+#: View/Helper/FormHelper.php:2773
+msgid "August"
+msgstr "Août"
+
+#: View/Helper/FormHelper.php:2774
+msgid "September"
+msgstr "Septembre"
+
+#: View/Helper/FormHelper.php:2775
+msgid "October"
+msgstr "Octobre"
+
+#: View/Helper/FormHelper.php:2776
+msgid "November"
+msgstr "Novembre"
+
+#: View/Helper/FormHelper.php:2777
+msgid "December"
+msgstr "Décembre"
+
+#: View/Helper/PaginatorHelper.php:627
+msgid " of "
+msgstr " de "
+
+#: View/Pages/home.ctp:143
+#, fuzzy
+msgid "New"
+msgstr "Nouveau %s"
+
+#: View/Scaffolds/form.ctp:28 View/Scaffolds/index.ctp:27;78
+#: View/Scaffolds/view.ctp:50
+msgid "Actions"
+msgstr "Actions"
+
+#: View/Scaffolds/form.ctp:32 View/Scaffolds/index.ctp:52
+#: View/Scaffolds/view.ctp:176
+msgid "Delete"
+msgstr "Supprimer"
+
+#: View/Scaffolds/form.ctp:35 View/Scaffolds/index.ctp:55
+#: View/Scaffolds/view.ctp:58;179
+msgid "Are you sure you want to delete # %s?"
+msgstr "Êtes vous sûr de vouloir supprimer # %s ?"
+
+#: View/Scaffolds/form.ctp:38
+msgid "List"
+msgstr "Lister"
+
+#: View/Scaffolds/form.ctp:45 View/Scaffolds/index.ctp:88
+#: View/Scaffolds/view.ctp:62;75
+msgid "List %s"
+msgstr "Lister %s"
+
+#: View/Scaffolds/index.ctp:49 View/Scaffolds/view.ctp:164
+msgid "View"
+msgstr "Voir"
+
+#: View/Scaffolds/index.ctp:50 View/Scaffolds/view.ctp:170
+msgid "Edit"
+msgstr "Modifier"
+
+#: View/Scaffolds/index.ctp:55 View/Scaffolds/view.ctp:49;133
+msgid "Are you sure you want to delete"
+msgstr "Etes-vous sûr de vouloir supprimer"
+
+#: View/Scaffolds/index.ctp:66
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Page {:page} de {:pages}, {:current} enregistrements sur un total de {:"
+"count}, à partir de l'enregistrement {:start}, jusqu'au {:end}"
+
+#: View/Scaffolds/index.ctp:71
+msgid "previous"
+msgstr "précédent"
+
+#: View/Scaffolds/index.ctp:73
+msgid "next"
+msgstr "suivant"
+
+#: View/Scaffolds/view.ctp:21
+msgid "View %s"
+msgstr "Voir %s"
+
+#: View/Scaffolds/view.ctp:58
+msgid "Delete %s"
+msgstr "Supprimer %s"
+
+#: View/Scaffolds/view.ctp:96;136
+msgid "Related %s"
+msgstr "Lié à %s"
+
+#: View/View.php:415
+#, fuzzy
+msgid "Element Not Found: %s"
+msgstr "Introuvable"
